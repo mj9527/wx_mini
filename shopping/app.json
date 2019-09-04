@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/mine/mine"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -9,5 +10,17 @@
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
   },
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+    "tabBar": {
+      "list": [
+        {
+          "text": "首页",
+          "pagePath": "pages/index/index"
+        },
+        {
+          "text": "我的",
+          "pagePath": "pages/mine/mine"
+        }
+      ]
+    }
 }

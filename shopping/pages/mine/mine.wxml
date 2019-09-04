@@ -1,0 +1,7 @@
+<!--pages/mine/mine.wxml-->
+<view class="container">
+<cover-image class="image1" src="/images/rocket.jpg"></cover-image>
+<cover-image class="image2" src="/images/rocket.jpg"></cover-image>
+<cover-image class="image3" src="/images/rocket.jpg"></cover-image>
+<cover-image class="image4" src="/images/rocket.jpg"></cover-image>
+</view>
