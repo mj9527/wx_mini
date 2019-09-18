@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/mine/mine"
+    "pages/mine/mine",
+    "pages/other/other"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -19,7 +20,7 @@
         },
         {
           "text": "我的",
-          "pagePath": "pages/mine/mine"
+          "pagePath": "pages/other/other"
         }
       ]
     }

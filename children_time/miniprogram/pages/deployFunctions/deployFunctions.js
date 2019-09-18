@@ -1,23 +1,11 @@
-// pages/mine/mine.js
+// pages/deployFunctions/deployFunctions.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    list: [
-      {
-        id: 'view',
-        name: '视图容器',
-        open: false,
-        pages: ['view', 'scroll-view', 'swiper', 'movable-view', 'cover-view']
-      }, {
-        id: 'content',
-        name: '基础内容',
-        open: false,
-        pages: ['text', 'icon', 'progress', 'rich-text']
-      }
-    ]
+
   },
 
   /**
